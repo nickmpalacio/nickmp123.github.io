@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Module 5 Type specification </title>
+		<meta charset="UTF-8"/>
+
+		<style>
+p.maincontent {font:1em arial,sans-serif;}
+
+</style>
+	</head>
+	<body>
+		<p>I'm planning on using a simple sans serif font like Arial or Calibri for my maincontent class. I'm not sure Calibri is on non-mac computers, so I'll have to test that out. </p>
+
+	<p class="maincontent">This is how the main content will display!</p>
+
+		
+	</body>
+	</html>
