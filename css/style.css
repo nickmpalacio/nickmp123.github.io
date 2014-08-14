@@ -9,7 +9,7 @@
 			background: url(http://elbarto.35photo.ru/photos/20130314/495251.jpg) no-repeat;
 			background-size: cover;
 			width: 100%;
-			overflow: hidden;
+			overflow: auto;
 		}      
         p.maincontent
 		{
